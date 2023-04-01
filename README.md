@@ -17,3 +17,8 @@ A Scrimba React course project focusing on conditional rendering and reusable co
 
  e. Styling with Classes
             
+
+
+## Screenshots
+
+<img src="airbnb.PNG">
