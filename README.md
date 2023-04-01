@@ -21,4 +21,4 @@ A Scrimba React course project focusing on conditional rendering and reusable co
 
 ## Screenshots
 
-<img src="airbnb.PNG">
+<img src="airbnb.png">
